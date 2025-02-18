@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wtari.csgad.com/HvZ/sitemap.xml.gz
